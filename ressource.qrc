@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/picture/allemagne.png</file>
+        <file>resources/picture/angleterre.png</file>
+        <file>resources/picture/belgique.png</file>
+        <file>resources/picture/couronne.png</file>
+        <file>resources/picture/espagne.png</file>
+        <file>resources/picture/etats-unis.png</file>
+        <file>resources/picture/france.ico</file>
+        <file>resources/picture/italie.png</file>
+        <file>resources/picture/notFound.png</file>
+        <file>resources/picture/russie.png</file>
+    </qresource>
+</RCC>
